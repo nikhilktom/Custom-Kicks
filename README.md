@@ -1,7 +1,7 @@
 # Custom kicks
 
 
-"A show customizer app powered by AI"
+"A shoe customizer app powered by AI"
 
 live: https://nikhilktom.netlify.app
 ## Table of Contents
